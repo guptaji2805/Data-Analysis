@@ -1,8 +1,6 @@
 # Data Analysis Project 
 # Data-Analysis
-It is a Data Analysis Project that I made while I was learning the Data Analysis from Udemy. This project revolves around exploring and visualizing data from Udemy courses, analyzing their prices, ratings, and other attributes. By leveraging the power of Python and data visualization libraries, this project sheds light on valuable insights within the Udemy course dataset.
-
-# Udemy Courses
+It is a Data Analysis Project that I made while I was learning Data Analysis from Udemy. This project revolves around exploring and visualizing data from Udemy courses and analyzing their prices, ratings, and other attributes. By leveraging the power of Python and data visualization libraries, this project sheds light on valuable insights within the Udemy course dataset.
 
 # Table of Contents
 
@@ -56,13 +54,9 @@ course_url
 instructor_name
 instructor_url
 num_comments**
-# Data Analysis
-In this project, the dataset is analyzed to gain insights into various aspects of Udemy courses. This includes examining the distribution of prices, correlations between attributes, top categories, and more.
 
 # Exploratory Visualizations
 The analysis is accompanied by visualizations that help convey the findings effectively. Exploratory graphs are used to illustrate trends, comparisons, and patterns within the dataset.
-
-# Price Distribution
 
 # Usage
 Clone this repository to your local machine.
